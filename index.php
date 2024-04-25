@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-       <h1>LOCADORA DEV</H1>
+       <h1>LOCADORA DEV</h1>
       <ul>
         <li>
            <a href="index.php?menu=home">Home</a>
